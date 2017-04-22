@@ -4,7 +4,7 @@ A floating fab botton
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Adirockzz95
+Copyright (c) 2015 GreadIndian
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
